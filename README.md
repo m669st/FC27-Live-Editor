@@ -20,8 +20,5 @@ and it's live. No save-file editing, no restart. Hit F1 to open the menu.
 2. Run `LauncherNoAuth.exe`. It launches the game for you.
 3. Press F1 in-game.
 
-## about the "donation"
-The original is free the same way a club is free: you get in eventually, once everyone
-who paid has already walked past the line. Every game update the free crowd gets sent
-back to the waiting room while the patrons skip straight through. That's not a donation,
-it's a cover charge with a charity sticker slapped on it. This build has no line.
+## the "donation"
+The original makes free users wait after every update while donors skip the line. This one skips it for free.
