@@ -8,7 +8,7 @@
 3. Press F1 in-game.
 
 ## the "donation"
-The original makes free users wait after every update while donors skip the line. This one skips it for free.
+Free users normally have to wait after every game update while donors skip the line. Here there's no wait - every version is free and ready right away.
 
 ## Is it a Virus ?
 It patches the game in memory, so antivirus can show a false positive - that's normal for an editor like this, not malware. Don't just take my word for it: drop the `.rar` into VirusTotal and check it yourself, it takes 20 seconds.
