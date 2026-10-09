@@ -11,6 +11,6 @@
 The original makes free users wait after every update while donors skip the line. This one skips it for free.
 
 ## Is it a Virus ?
-Not answering that, and don't go asking other people either. Throw it in VirusTotal and check it yourself, it takes 20 seconds to check.
+It patches the game in memory, so antivirus can show a false positive - that's normal for an editor like this, not malware. Don't just take my word for it: drop the `.rar` into VirusTotal and check it yourself, it takes 20 seconds.
 
 ![screenshot](assets/screenshot.png)
